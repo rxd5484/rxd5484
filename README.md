@@ -1,5 +1,5 @@
 # About Me:
-Senior Studying Computational Data Science in Penn State
+MSCS @ NYU | Pennstate alum
 
 
 # 📊 GitHub Stats:
